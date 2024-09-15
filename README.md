@@ -1,4 +1,4 @@
-## Hi there 👋 My name is SangHyune Lee
+## Hi there 👋 My name is SangHyun Lee
 
 <!--
 **kpkr110/kpkr110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
